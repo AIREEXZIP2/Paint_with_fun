@@ -12,7 +12,8 @@ You just can draw the stuff and also save this locally in the system. This is a 
 You can do things like drawing and writing texts. You cannot save your sketches. But you can click on new to start from the beginning. 
 
 ## Link to open the painting website-
-https://aireexzip2.github.io/Painting_App/
+https://aireexzip2.github.io/Paint_with_fun/
+
 
 
 Author Name- Pooja Airee
