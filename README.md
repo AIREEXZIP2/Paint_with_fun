@@ -1,4 +1,4 @@
-# Painting_App
+# Painting_App(Paint_with_Fun)
 Painting app in Javascript 
 
 ## Project: Painting Tool In JavaScript
@@ -10,8 +10,8 @@ Painting app in Javascript
 
 ## About The Project
 
-** The Painting tool project is simply in HTML, CSS, and JavaScript. Taking about the features of this system, this project does not consist of many features. 
-You can do things like drawing and writing texts. You cannot save your sketches. But you can click on new to start from the beginning....
+ ## The Painting tool project is simply in HTML, CSS, and JavaScript. Taking about the features of this system, in this project you can draw in infinite colour. 
+You can do things like drawing and writing texts.you can also save your work  . and click on new to start from the beginning....
 
 ## Link to open the painting website-
 https://aireexzip2.github.io/Paint_with_fun/
